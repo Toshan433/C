@@ -1,2 +1,2 @@
-# c-projects
-A set of beginner to intermediate C projects for learning and practicing programming
+# C Programming Language
+Here you will learn data structures, memory, and pointers through projects.
